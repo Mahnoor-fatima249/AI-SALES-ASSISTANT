@@ -1,5 +1,0 @@
-groq
-python-dotenv
-flask
-pandas
-requests
