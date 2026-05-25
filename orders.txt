@@ -1,0 +1,33 @@
+[2026-05-24 14:03:54] Order: yes confirmed my order
+[2026-05-24 14:07:19] Order: Mara order confirm kar da
+[2026-05-24 14:15:12] Order: yes confirmed
+[2026-05-24 14:17:41] Order: medium size shoes order confirmed
+[2026-05-24 14:21:00] Order: shoes  small size 2500 order confirmed
+[2026-05-24 14:24:23] Order: shoes 2500 order confirmed
+[2026-05-24 14:27:39] Order: hello shoes 2500 small size order confirmed
+[2026-05-24 14:32:44] Order: yes i buy it
+[2026-05-24 14:35:49] Order: yes confim
+[2026-05-24 14:41:25] Order: yes confirmed
+[2026-05-24 14:44:22] Order: okay soes small size 2500 order congirmed
+[2026-05-24 15:40:39] Order: Okay muga shoes chyea mara order confirm kar da
+[2026-05-24 15:46:04] Order: Okay muga shoes chyea mara order confirm kar da
+[2026-05-24 16:03:27] Order: order confirm shoes size large 2500
+[2026-05-24 16:06:31] Order: okay write my order 2 sets of shoes 5000 order confirmed
+[2026-05-24 16:17:06] Order: g confirm ha
+[2026-05-24 16:20:10] Order: kar da
+[2026-05-24 16:28:07] Order: hm confirm ha
+[2026-05-24 16:28:43] Order: transcript da
+[2026-05-24 16:35:52] Order: da do to axha ha
+[2026-05-24 16:36:13] Order: confirm
+[2026-05-24 16:37:01] Order: okay by
+[2026-05-24 16:39:51] Order: Confirm my order
+[2026-05-24 16:40:04] Order: Okay
+[2026-05-24 21:42:18] Order: hm lana chate ho
+[2026-05-24 21:42:33] Order: okay thnx
+[2026-05-24 22:00:03] Order: hello
+[2026-05-24 22:00:16] Order: helloo
+[2026-05-24 22:01:49] Order: ha tum muga shoes dekhao
+[2026-05-24 22:05:55] Order: hello
+[2026-05-24 22:07:30] Order: ha lana chate ho muga 3 shoes do or 5 blue shirts do
+[2026-05-24 22:07:40] Order: katna paas bana
+[2026-05-24 22:09:36] Order: hello

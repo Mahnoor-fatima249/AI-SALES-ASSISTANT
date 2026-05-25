@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Stylish Shoes",
+        "price": 2500,
+        "quantity": 7,
+        "description": "Premium quality comfortable sports shoes.",
+        "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+        "id": 2,
+        "name": "Cotton Shirt",
+        "price": 1200,
+        "quantity": 7,
+        "description": "Soft and breathable pure cotton shirt for daily wear.",
+        "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
+    },
+    {
+        "id": 3,
+        "name": "Leather Wallet",
+        "price": 850,
+        "quantity": 7,
+        "description": "Genuine leather slim wallet with multiple card slots.",
+        "image_url": "https://images.unsplash.com/photo-1627123424574-724758594e93"
+    },
+    {
+        "id": 4,
+        "name": "Classic Watch",
+        "price": 3500,
+        "quantity": 7,
+        "description": "Elegant analog watch with a stainless steel strap.",
+        "image_url": "https://images.unsplash.com/photo-1524592094714-0f0654e20314"
+    },
+    {
+        "id": 5,
+        "name": "Casual Sunglasses",
+        "price": 1500,
+        "quantity": 7,
+        "description": "UV protected stylish sunglasses for summer.",
+        "image_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f"
+    }
+]
