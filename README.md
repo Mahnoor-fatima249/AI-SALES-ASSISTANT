@@ -1,15 +1,15 @@
 # 🤖 **AI-Powered Sales Assistant**
 
-Ek ***intelligent sales assistant*** jo customer invoices, orders, aur inventory data ko analyze karne ke liye ***Groq API*** ka istemal karta hai. Yeh project **Python** aur **JavaScript** ka perfect combination hai, jo sales process ko automate aur optimize karta hai.
+An ***intelligent sales assistant*** that analyzes customer invoices, orders, and inventory data using the ***Groq API***. This project is a perfect combination of **Python** and **JavaScript**, designed to automate and optimize sales processes.
 
 ---
 
 ## 🚀 **Key Features**
 
-* **Invoice Processing:** Customer invoices ko automatically scan aur extract karta hai.
-* **Inventory Tracking:** `stock.json` ke zariye **real-time stock levels** update karta hai.
-* **Order Management:** Orders ko track karna aur history maintain karna.
-* **AI Insights:** Sales data ki base par **intelligent business suggestions** dena.
+* **Invoice Processing:** Automatically scan and extract data from customer invoices.
+* **Inventory Tracking:** Update **real-time stock levels** using `stock.json`.
+* **Order Management:** Efficiently track orders and maintain sales history.
+* **AI Insights:** Generate **intelligent business suggestions** based on sales data.
 
 ---
 
@@ -26,9 +26,9 @@ Ek ***intelligent sales assistant*** jo customer invoices, orders, aur inventory
 
 ```text
 AI-SALES-ASSISTANT/
-├── agent.py          # AI logic aur Groq API integration
+├── agent.py          # AI logic and Groq API integration
 ├── main.py           # Main application entry point
-├── orders.json       # Customer orders ka database
+├── orders.json       # Customer orders database
 ├── stock.json        # Current inventory levels
 ├── .env              # Environment variables (API Key)
 └── README.md         # Documentation
@@ -43,28 +43,3 @@ Install dependencies:
 Bash
 npm install
 pip install -r requirements.txt
-Environment Variables:
-
-Ek file banayein ***.env***.
-
-Isme apni Groq API key add karein:
-GROQ_API_KEY=your_actual_api_key_here
-
-⚠️ Security Policy
-API Keys: Kabhi bhi apni .env file ya API keys ko public repository mein push na karein.
-
-Data Handling: node_modules aur sensitive data files ko .gitignore mein add kiya gaya hai taake wo repo mein upload na hon.
-
-🤝 Contribution
-Agar aap is project ko behtar banana chahti hain ya koi naya feature add karna chahti hain, toh Pull Request bhej sakti hain!
-
-
-### Isko set karne ka tareeqa:
-1. GitHub par apni repository mein `README.md` file kholein.
-2. Upar right side mein **Pencil (Edit)** icon par click karein.
-3. Purana saara text hata dein (Delete).
-4. Upar diya gaya poora code **Paste** kar dein.
-5. Upar tab mein **"Preview"** par click karke dekhein, yeh bahut professional lagega.
-6. Niche **"Commit changes"** par click kar dein.
-
-Kya aapne ye update kar diya? Ab aapka GitHub profile aur project ekdum professional dikhega!
